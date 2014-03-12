@@ -1,0 +1,19 @@
+{
+  "name": "Require Path Error Example",
+  "version": "0.0.0",
+  "description": "shows how to reproduce an erro when referencing same module with different paths.",
+  "authors": [
+    "Matt Dumouchel"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.10",
+	"jQuery": "~2.1.0"
+  }
+}
